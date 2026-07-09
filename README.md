@@ -19,8 +19,14 @@ O objetivo do projeto é modernizar o ensino de Eletromagnetismo Aplicado por me
 
 > **Nota:** Para a correta visualização das equações (MathJax) e execução dos gráficos dinâmicos, recomenda-se abrir os notebooks diretamente no Google Colab.
 
-* **[Notebook 1: Lei de Faraday e Indução Eletromagnética]**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_do_seu_colab_aqui)
+* **Indução Eletromagnética**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
 
-* **[Notebook 2: Título do Segundo Notebook]**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_do_seu_colab_aqui)
+* **Regimes Harmônicos**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13tLOtBhJVhbE-DkX9vAD4iplUIeuuW5V)
+
+* **Ondas Eletromagnéticas**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qd6bh4GKW1WKLGIekKru24moe29HJGDs)
+
+* **Métodos Numéricos**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IyKUStGfBIZ26SYfhScR524yfzf6gcjw)
