@@ -20,7 +20,7 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
 > **Nota:** Para a correta visualização, recomenda-se abrir os notebooks diretamente no Google Colab.
 > 
 <details>
-  <summary><b>Eletromagnetismo básico</b></summary>
+  <summary><b>Eletromagnetismo Básico</b></summary>
 
   - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7Wi6ZVsvwtR-fHQMoAiHQZ3KjaAYJ1a)
   - Campos Eletrostáticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mu4rDiC2cDzLG8ZKkYSU1xJsvEJfkaI3)
@@ -32,7 +32,7 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
 </details>
 
 <details>
-  <summary><b>Eletromagnetismo aplicado</b></summary>
+  <summary><b>Eletromagnetismo Aplicado</b></summary>
   
   - Indução Eletromagnética: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
   - Ondas Eletromagnéticas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qd6bh4GKW1WKLGIekKru24moe29HJGDs)
@@ -41,4 +41,3 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
   - Métodos Numéricos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IyKUStGfBIZ26SYfhScR524yfzf6gcjw)
     
 </details>
-
