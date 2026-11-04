@@ -1,4 +1,4 @@
-# 📐 Projeto de Iniciação à Docência: Eletromagnetismo & IA
+# 📐 Programa de Iniciação à Docência: Eletromagnetismo & IA
 
 Este repositório serve como uma demonstração do projeto desenvolvido no curso de Engenharia de Telecomunicações (UFC), sob a orientação do Prof. João Batista.
 
