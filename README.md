@@ -22,10 +22,12 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
 <details>
   <summary><b>Eletromagnetismo básico</b></summary>
 
-  - Listas
-  - Links
-  - Imagens
-  - Blocos de código
+  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
+  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
+  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
+  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
+  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
+  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
 
 </details>
 
