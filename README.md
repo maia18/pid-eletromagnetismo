@@ -18,7 +18,7 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
 ## Acesse as Simulações Interativas
 
 > **Nota:** Para a correta visualização, recomenda-se abrir os notebooks diretamente no Google Colab.
-> 
+
 <details>
   <summary><b>Eletromagnetismo Básico</b></summary>
 
