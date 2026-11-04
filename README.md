@@ -19,17 +19,17 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
 
 > **Nota:** Para a correta visualização, recomenda-se abrir os notebooks diretamente no Google Colab.
 
-* **Indução Eletromagnética**  
+* ### **Indução Eletromagnética**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
 
-* **Ondas Eletromagnéticas**  
+* ### **Ondas Eletromagnéticas**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qd6bh4GKW1WKLGIekKru24moe29HJGDs)
 
-* **Regimes Harmônicos**  
+* ### **Regimes Harmônicos**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13tLOtBhJVhbE-DkX9vAD4iplUIeuuW5V)
 
-* **Métodos Numéricos**  
+* ### **Métodos Numéricos**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IyKUStGfBIZ26SYfhScR524yfzf6gcjw)
 
-* **Equações de Maxwell**    
+* ### **Equações de Maxwell**    
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ktTlIOExeNWgDpJAD_nTp_BoYBOez0Bu)
