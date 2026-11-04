@@ -24,9 +24,9 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
 
   - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7Wi6ZVsvwtR-fHQMoAiHQZ3KjaAYJ1a)
   - Campos Eletrostáticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mu4rDiC2cDzLG8ZKkYSU1xJsvEJfkaI3)
-  - Campos Magnetostáticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1YWsFFUmxttjDeHS7kItcs1cJL_TQFVzn)
-  - Condutores e Dielétricos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1YWsFFUmxttjDeHS7kItcs1cJL_TQFVzn)
   - Fronteiras Eletrostáticas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1YWsFFUmxttjDeHS7kItcs1cJL_TQFVzn)
+  - Condutores e Dielétricos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1YWsFFUmxttjDeHS7kItcs1cJL_TQFVzn)
+  - Campos Magnetostáticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1YWsFFUmxttjDeHS7kItcs1cJL_TQFVzn)
   - Forças, Materiais e Dispositivos Magnéticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1YWsFFUmxttjDeHS7kItcs1cJL_TQFVzn)
 
 </details>
