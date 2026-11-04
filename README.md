@@ -23,12 +23,11 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
   <summary><b>Eletromagnetismo básico</b></summary>
 
   - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7Wi6ZVsvwtR-fHQMoAiHQZ3KjaAYJ1a)
-  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mu4rDiC2cDzLG8ZKkYSU1xJsvEJfkaI3)
-  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - Análise Vetorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - Campos Eletrostáticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mu4rDiC2cDzLG8ZKkYSU1xJsvEJfkaI3)
+  - Campos Magnetostáticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - Condutores e Dielétricos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - Forças, Materiais e Dispositivos Magnéticos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - Fronteiras Eletrostáticas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 </details>
 
