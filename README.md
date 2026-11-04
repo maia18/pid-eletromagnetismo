@@ -17,7 +17,7 @@ O objetivo do programa é modernizar o ensino de Eletromagnetismo Aplicado por m
 
 ## Acesse as Simulações Interativas
 
-> **Nota:** Para a correta visualização das equações (MathJax) e execução dos gráficos dinâmicos, recomenda-se abrir os notebooks diretamente no Google Colab.
+> **Nota:** Para a correta visualização, recomenda-se abrir os notebooks diretamente no Google Colab.
 
 * **Indução Eletromagnética**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riUALxRpEMf5UeC66vigqVw2PU3pwhit)
